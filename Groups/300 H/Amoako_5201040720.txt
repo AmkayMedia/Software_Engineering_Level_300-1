@@ -1,0 +1,87 @@
+
+answers 
+
+1. A software process model is a digital or hand-written model that details the software development process. 
+Process models help provide a visual representation of the development process for both the team and the customer to review.
+
+This helps them determine the right process to follow for specific software, 
+identify early challenges or cost constraints and acts as a record of the team's development process for the future.
+
+2. The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, 
+while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+Waterfall asserts that customer feedback and stakeholder interactions need not occur until the end-product is delivered. 
+However, Agile practitioners believe the following:
+
+a. Requirements can become outdated before development even begins.
+b. New technologies can force changes to even the best designs.
+c. Wireframes and visual renderings don't always translate well into webpages and mobile apps.
+d. Revised stakeholder priorities can shift development timelines and efforts.
+
+Some pros and cons of agile and Waterfall Development....
+
+Agile
+
+Pros
+
+a. Flexibility to respond to the market and new intelligence
+b. The implementation team has room for creative problem solving
+c. Self-organizing teams and resource allocation
+d. Frequent updates and increased customer value
+e. Rigid cadence, deadline flexibility
+
+
+Cons
+
+a. Loose planning can lead to unpredictable finished product and date slippage
+b. Susceptible to a lack of focus and knee-jerk reactions from Sprint to Sprint
+d. Relentless pace
+e. Loose testing requirements may let bugs through
+f. No opportunities to make changes during a Sprint
+
+
+Waterfall
+
+Pros
+
+a. Minimal scope creep
+b. A predictable and well-specified final product
+c. Well-defined roles and responsibilities
+d. Infrequent releases that can be carefully rolled out and messaged to users and the market
+e. Precise project plans and firm deadlines
+
+
+Cons
+
+a. Lack of flexibility after a specification
+b. Fewer opportunities to course correct
+c. Too many gaps between innovations reaching the market
+d. Too long until bugs are discovered since testing doesn’t occur until the large project is complete
+e. Beaurocratic change management process.
+
+3. Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within a development organization and developing high-quality software that meets the needs and requirements of its users. 
+RUP is a systematic way to allocate tasks and responsibilities within a development team that offers best practices and guidelines for effective software development. By doing so, it is able to produce high-quality software on time and within budget while satisfying the demands of its customers.
+
+These features makes it differ from other software development process models
+
+a. Iterative and incremental development: RUP emphasizes iterations, or cycles, of work, rather than trying to complete all work upfront. This allows for more flexibility and responsiveness to change. Each iteration results in a working version of the software that can be demonstrated to, and used by, clients.
+b. Strong focus on requirements: RUP puts strong emphasis on requirements gathering and management. A project’s success depends on having a clear understanding of what the client wants the final product to do. Only then can developers and project managers plan out the necessary steps to create it.
+c. Architecture-centric development: RUP takes an architecture-centric approach, meaning that the software’s overall design is created first before any code is written. This ensures that the final product will be well-structured and maintainable.
+d. Component-based development: Component-based development is a technique for building software systems from pre-existing components rather than from scratch. This speeds up development time and results in more reliable code since proven components are reused.
+
+Advantages
+It allows us to deal with changing requirements within the project’s development life cycle as per the client or customer needs, i.e. it welcomes change.
+It supports incremental build the software product.
+It provides proper documentation of the software product.
+It helps to use the resources efficiently.
+It helps to identify issues early in the process life cycle.
+It improves process control and risk management.
+It enhances team productivity.
+It helps reduces unexpected development costs.
+
+
+Disadvantages
+It is a complex model to implement as it has multiple stages of the workflow.
+It is challenging for organizations to implement which has, small team size or projects.
+It should be highly result-oriented from individuals or teams.
+It emphasizes the integration of modules throughout the software development process, so this creates trouble during the testing phase.
